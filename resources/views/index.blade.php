@@ -9,8 +9,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/favicon.pngl" rel="icon">
+  <link href="assets/img/apple-touch-icon.pngl" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
@@ -62,10 +62,9 @@
         <h4>Suivez-nous dans nos différentes page ci-dessous.</h4>
        
       </div>
-
       <div class="social-links text-center">
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.facebook.com/Hardyofficiel" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a target="_blank" href="https://www.instagram.com/invites/contact/?i=137hm2clehh61&utm_content=hvp6dmg" class="instagram"><i class="bi bi-instagram"></i></a>
       </div>
 
     </div>
