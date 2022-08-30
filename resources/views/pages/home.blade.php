@@ -13,7 +13,7 @@
             </div>
             <div class="col-lg-6 col-md-12">
                 <div class="main-banner">
-                    <p class="font-weight-bold"><span class="text-color">50% de réduction</span> sur l'achat anticipé</p>
+                    <p class="font-weight-bold"><span class="text-color">50% discount</span> de réduction sur l'achat anticipé</p>
                     <h1 class="mb-2">
                        TANK MOTIVATION
                     </h1>

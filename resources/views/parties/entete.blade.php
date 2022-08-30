@@ -26,7 +26,8 @@
   <!-- Owl Carousel CSS -->
   <link rel="stylesheet" href="{{ asset('asset/plugins/owl-carousel/owl.carousel.min.css') }}">
   <link rel="stylesheet" href="{{ asset('asset/plugins/owl-carousel/owl.theme.default.min.css') }}">
-
+ <!--  Custom Fonts -->
+ <link rel="stylesheet" href="{{ asset('asset/fonts/gilroy/font-gilroy.csss') }}">
   <!-- Main Stylesheet -->
   <link rel="stylesheet" href="{{ asset('asset/css/style-2.css') }}">
   <link rel="stylesheet" href="{{ asset('asset/css/responsive.css') }}">
