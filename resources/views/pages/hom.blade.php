@@ -401,7 +401,7 @@
 					</div>
 					<div class="content">
                         <h2 class="count">25000</h2>
-						<span>Copies Sold</span>
+						<span>Exemplaires vendus</span>
 					</div>
 				</div>
             </div>
@@ -412,8 +412,8 @@
 						<i class="ti-check"></i>
 					</div>
 					<div class="content">
-                        <h2 class="count">23246</h2>
-						<span>Cup Of Coffee</span>
+                        <h2 class="count">23</h2>
+						<span>Fait un don</span>
 					</div>
 				</div>
             </div>
@@ -424,8 +424,8 @@
 						<i class="ti-bookmark"></i>
 					</div>
 					<div class="content">
-                        <h2 class="count">32456</h2>
-						<span>Copies Released</span>
+                        <h2 class="count">1</h2>
+						<span>Copies publiées</span>
 					</div>
 				</div>
             </div>
@@ -436,8 +436,8 @@
 						<i class="ti-heart"></i>
 					</div>
 					<div class="content">
-                        <h2 class="count">45,522</h2>
-						<span>Happy Readers</span>
+                        <h2 class="count">45</h2>
+						<span>Heureux lecteurs</span>
 					</div>
 				</div>
 			</div>
