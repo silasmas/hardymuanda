@@ -2,7 +2,7 @@
 Author       : Dreambuzz
 Template Name: Treaser - Book landing template
 Author URI : https://themeturn.com/
-Description: Treaser,book,author,it, onepage,clean,bootstrap4, 
+Description: Treaser,book,author,it, onepage,clean,bootstrap4,
 Version      : 1.0
 -------------------------------------------------*/
 
@@ -393,7 +393,7 @@ a:hover, a:focus {
   background: #fff;
   width: 220px;
   position: absolute;
-  visibility: hidden; 
+  visibility: hidden;
   opacity: 0;
   top: 120%;
   z-index: 99;
@@ -483,7 +483,7 @@ a:hover, a:focus {
 }
 
 /*  ====================
-Cta 
+Cta
 ========================== */
 
 .cta {
@@ -492,7 +492,7 @@ Cta
 .cta-wrapper{
   position:relative;
   background:#4054B2;
-  background:url("../images/about/cta-bg.jpg") fixed 50% 50%;
+  background:url("../images/about/bac.png") fixed 50% 50%;
   background-size:cover;
   border-radius:15px;
   padding:80px 40px 90px 40px;
@@ -543,7 +543,7 @@ Cta
 
 
 /*  ====================
-Book CHapter 
+Book CHapter
 ========================== */
 
 .chapter{
@@ -1131,7 +1131,7 @@ CONTACT PAGE
   color: #fff;
 }
 
-.footer-widget ul li a, 
+.footer-widget ul li a,
 .footer-widget ul li span {
   color: #fff;
 }

@@ -15,7 +15,7 @@
                 <div class="footer-widget pl-lg-5">
                     <div class="contact-item">
                         <h5 class="mb-2">Réservations</h5>
-                        <p>+ 301 324 9131 </p>
+                        <p>+243 896 036 592/p>
                     </div>
                     <div class="contact-item">
                         <h5 class="mb-2">Nous suivre</h5>

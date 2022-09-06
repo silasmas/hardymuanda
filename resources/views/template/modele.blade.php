@@ -1,9 +1,9 @@
 @include('parties.entete')
 
-@include('parties.menu')
+@include('parties.menus')
 
 @yield('content','titre')
 
 
-@include('parties.footer')
+@include('parties.footers')
 @include('parties.pied')

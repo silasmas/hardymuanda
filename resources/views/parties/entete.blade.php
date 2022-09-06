@@ -29,7 +29,7 @@
  <!--  Custom Fonts -->
  <link rel="stylesheet" href="{{ asset('asset/fonts/gilroy/font-gilroy.csss') }}">
   <!-- Main Stylesheet -->
-  <link rel="stylesheet" href="{{ asset('asset/css/style-2.css') }}">
+  <link rel="stylesheet" href="{{ asset('asset/css/style4.css') }}">
   <link rel="stylesheet" href="{{ asset('asset/css/responsive.css') }}">
 
 </head>

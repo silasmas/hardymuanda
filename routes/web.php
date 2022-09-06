@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('index');
 });
 Route::get('/home', function () {
-    return view('pages.home');
+    return view('pages.hom');
 })->name('home');
 
 Route::get('/dashboard', function () {
